@@ -3,7 +3,6 @@ import string
 import time
 
 prompt = ">"
-prompt2 = ">>"
 
 def isdatevalid (yyyy,mm,dd):
     correctDate = None
